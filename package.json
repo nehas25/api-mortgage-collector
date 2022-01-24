@@ -1,0 +1,19 @@
+{
+  "name": "api-mortgage-calculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dinero.js": "^1.9.1",
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "@types/jest": "^27.4.0",
+    "jest": "^27.4.7"
+  }
+}
